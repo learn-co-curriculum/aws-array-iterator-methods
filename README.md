@@ -144,7 +144,6 @@ JavaScript method(s) we can use for each:
 | Finding a single element that meets a condition                | `indexOf()`, `find()` |
 | Finding and returning a list of elements that meet a condition | `filter()`            |
 | Modifying each element and returning the modified array        | `map()`               |
-| Creating a summary or aggregation of values in an array        | `reduce()`            |
 
 We will learn about each of the above methods in the upcoming lessons.
 
